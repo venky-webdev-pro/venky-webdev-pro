@@ -21,7 +21,8 @@
 ## 📂 Featured Projects
 
 ### 1. **Video Streaming Web App**
-A fully responsive video platform built with React.js, Tailwind CSS, and YouTube Data API.  
+A fully responsive video platform built with React.js, Tailwind CSS, and YouTube Data API. 
+A responsive video streaming platform built with React.js, Tailwind CSS, and YouTube Data API. Features include real-time video search, dynamic rendering, API integration, and Vercel deployment.
 **Highlights:** Real-time video search, dynamic rendering, API integration, deployed on Vercel.  
 🔗 [Live Demo]: (https://video-stream-master-sage.vercel.app/)  
 💻 [GitHub Repository]: (https://github.com/venky-webdev-pro/VideoStream-master)
@@ -30,6 +31,7 @@ A fully responsive video platform built with React.js, Tailwind CSS, and YouTube
 
 ### 2. **Personal Portfolio Website**
 Responsive, mobile-first portfolio showcasing projects, skills, and background.  
+A sleek, mobile-first portfolio showcasing projects, skills, and background. Built with React.js, Tailwind CSS, and Vite for optimized performance and seamless UI/UX.
 **Highlights:** Modular design, smooth navigation, optimized performance, SEO-friendly deployment.  
 🔗 [Live Demo]: (https://lakshmi-portfolio-react.vercel.app/)  
 💻 [GitHub Repository]: (https://github.com/venky-webdev-pro/Lakshmi_Portfolio_react)
